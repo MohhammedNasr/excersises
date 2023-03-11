@@ -15,4 +15,6 @@ public class SignupController {
     public String submitSignupForm() {
         return "redirect:/home";
     }
+
+    public String test;
 }
